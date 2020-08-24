@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.szum123321.fabric_tool_helper.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "accessors.AxeItemAccessor",
+    "accessors.HoeItemAccessor",
+    "accessors.ShovelItemAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

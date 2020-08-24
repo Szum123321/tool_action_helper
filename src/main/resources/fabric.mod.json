@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "tool_action_helper",
+  "version": "${version}",
+  "name": "Tool Action Helper",
+  "description": "Helps with adding effective blocks to vanilla tools",
+  "authors": [
+    "Szum123321"
+  ],
+  "contributors": [],
+  "contact": {
+    "sources": "https://github.com/Szum123321/tool_actions_helper"
+  },
+  "license": "MIT",
+  "environment": "*",
+
+  "mixins": [
+    "tool_action_helper.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.9.0"
+  },
+  "accessWidener" : "tool_action_helper.accesswidener"
+}
