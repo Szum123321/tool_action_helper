@@ -15,7 +15,7 @@
   "environment": "*",
 
   "mixins": [
-    "tool_action_helper.json"
+    "tool_action_helper.mixin.json"
   ],
   "depends": {
     "fabricloader": ">=0.9.0"

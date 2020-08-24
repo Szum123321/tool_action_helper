@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "net.szum123321.fabric_tool_helper.mixin",
+  "package": "net.szum123321.tool_action_helper.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
     "accessors.AxeItemAccessor",
