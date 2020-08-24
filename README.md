@@ -47,7 +47,7 @@ repositories{
 }
 
 dependencies {
-	modImplementation "net.szum123321:fabric_tool_helper:[newest version]"
+	modImplementation "net.szum123321:tool_action_helper:[newest version]"
 }
 ```
 

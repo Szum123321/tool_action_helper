@@ -70,7 +70,7 @@ publishing {
 	repositories {
 		// uncomment to publish to the local maven
 
-		File repo = new File(project.maven_repo)
+		File repo = new File(project.maven_repo as String)
 		if(!repo.exists())
 			repo.mkdirs();
 
