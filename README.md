@@ -48,6 +48,9 @@ repositories{
 
 dependencies {
 	modImplementation "net.szum123321:tool_action_helper:[newest version]"
+	
+	//Uncomment this line if you want to include this mod in your mod's jar
+	//include "net.szum123321:tool_action_helper:[newest version]"
 }
 ```
 
