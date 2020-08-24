@@ -39,6 +39,9 @@ Below you can see example class:
 ```
 
 Add this tou build.gradle to use this library:
+
+Newest version number can be found [here](https://github.com/Szum123321/SzumMaven/tree/master/net/szum123321/tool_action_helper)
+
 ```groovy
 repositories{
 	maven {
